@@ -1,0 +1,2 @@
+# biology-function-page
+Simple website used for excuting biological functions.There are 8 biological functions.    Using sequences enterd by the user     Using sequences stored in DataBase    In the database , Two Tables exist to store user_seq_data    Another two Tables exist to store Admin Sequences Data   Web Site Consists of  4 Forms  Database Operations(Insert,Delete,Update) Can be Done by Admin
